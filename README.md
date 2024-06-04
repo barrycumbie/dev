@@ -1,2 +1,2 @@
-# fluffy-memory-webDev
-Cumbie's CIS 376 Centralized Launchpage 
+# barrycumbie|dev
+Cumbie's CIS 376 `Centralized` LaunchPage 🚀 
