@@ -15,6 +15,12 @@ table, th, td {
   background-color: #FFF; 
 }
 
+li>ul>.list-group-item:nth-child(odd) {
+  background-color: whitesmoke;
+}
+
+​
+
 .card {
     margin: 0.5em;
     background-color: #FFF;
